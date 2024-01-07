@@ -13,7 +13,7 @@ PixelPilot es una aplicación diseñada para facilitar la instalación de la ROM
 
 - Botón de flash
 - Ajustes correctos del backup
-- Establecer la ruta de arranque sin necesidad del teléfono
+- Realizar patch Root de arranque sin necesidad del teléfono
 
 ## Dependencias
 
